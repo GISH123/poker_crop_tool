@@ -1,2 +1,3 @@
 # poker_crop_tool
-20240408 backup
+
+User crop poker region tools, output XML and JSON according to the format used by OBS and poker inference program
